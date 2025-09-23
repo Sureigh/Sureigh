@@ -15,6 +15,7 @@ When I do upload something here, it's mainly because I want to either showcase w
 
 I am __confident__ with (will be able to work, and understand on projects):
 - Python
+- Javascript/TypeScript
 
 I am __learning__ (understand most concepts, need help recalling syntax):
 - C#
@@ -22,7 +23,6 @@ I am __learning__ (understand most concepts, need help recalling syntax):
 - Java
 - Lua
 - Rust
-- Javascript/TypeScript
 
 I am __interested__ in learning: 
 - Anything! ✨
