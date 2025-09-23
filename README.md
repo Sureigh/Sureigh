@@ -2,7 +2,7 @@
 Hi there! 💖
 
 My name is Sera (She/They). 
-I'm 24 years old, and I'm part Japanese, part Chinese.
+I'm 25 years old, and I'm part Japanese, part Chinese.
 
 I've been studying programming from around when I was 15, and most of what I know today is self-taught. 
 I like using my spare time to practice what I've learned, or learn new concepts/ideas in languages I am unfamiliar with. 
