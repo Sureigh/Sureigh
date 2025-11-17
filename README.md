@@ -16,8 +16,11 @@ When I do upload something here, it's mainly because I want to either showcase w
 I am __confident__ with (will be able to work, and understand on projects):
 - Python
 - Javascript/TypeScript
+- SQL syntax in general
 
 I am __learning__ (understand most concepts, need help recalling syntax):
+- C
+- C++
 - C#
 - Kotlin
 - Java
@@ -27,14 +30,16 @@ I am __learning__ (understand most concepts, need help recalling syntax):
 I am __interested__ in learning: 
 - Anything! ✨
 
-I also have some basic experience messing around with frontend web design, specifically with HTML and CSS. 
+I also have experience messing around with frontend web design, using HTML and CSS + common frameworks such as React, Handlebars, FluentUI, MUI, etc.
 
 Speaking realistically, I don't think there's much that gets in my way of learning new concepts! 
-I pick up on ideas very fast, and I can apply it immediately if I can understand what I'm working with. 
+I pick up on ideas very fast, and I can apply it immediately if I can understand what I'm working with.
+
+Feel free to reach me at my email, or on Discord with the same handle (@seraphimsera). 
+I can communicate in English, Japanese and Chinese.
+
+See you soon! 💖
 
 <!---
 TODO: Add my github pages here?
-
-Sureigh/Sureigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
